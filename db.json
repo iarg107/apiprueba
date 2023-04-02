@@ -1,0 +1,148 @@
+{
+  "productos": [
+    {
+      "urlimagen": "assets/img/star1.png",
+      "categoria": "starwars",
+      "nombre": "producto a",
+      "precio": "170",
+      "descripcion": "Un producto cualquiera",
+      "id": "1"
+    },
+    {
+      "urlimagen": "assets/img/star2.png",
+      "categoria": "starwars",
+      "nombre": "producto b",
+      "precio": "150",
+      "descripcion": "Un producto cualquiera",
+      "id": "2"
+    },
+    {
+      "urlimagen": "assets/img/star3.png",
+      "categoria": "starwars",
+      "nombre": "producto c",
+      "precio": "68",
+      "descripcion": "Un producto cualquiera",
+      "id": "3"
+    },
+    {
+      "urlimagen": "assets/img/star4.png",
+      "categoria": "starwars",
+      "nombre": "producto d",
+      "precio": "350",
+      "descripcion": "Un producto cualquiera",
+      "id": "4"
+    },
+    {
+      "urlimagen": "assets/img/star5.png",
+      "categoria": "starwars",
+      "nombre": "producto e",
+      "precio": "510",
+      "descripcion": "Un producto cualquiera",
+      "id": "5"
+    },
+    {
+      "urlimagen": "assets/img/star6.png",
+      "categoria": "starwars",
+      "nombre": "producto f",
+      "precio": "1230",
+      "descripcion": "Un producto cualquiera",
+      "id": "6"
+    },
+    {
+      "urlimagen": "assets/img/cons1.png",
+      "categoria": "consolas",
+      "nombre": "producto g",
+      "precio": "999",
+      "descripcion": "Un producto cualquiera",
+      "id": "7"
+    },
+    {
+      "urlimagen": "assets/img/cons2.png",
+      "categoria": "consolas",
+      "nombre": "producto h",
+      "precio": "12001",
+      "descripcion": "Un producto cualquiera",
+      "id": "8"
+    },
+    {
+      "urlimagen": "assets/img/cons3.png",
+      "categoria": "consolas",
+      "nombre": "producto i",
+      "precio": "710",
+      "descripcion": "Un producto cualquiera",
+      "id": "9"
+    },
+    {
+      "urlimagen": "assets/img/cons4.png",
+      "categoria": "consolas",
+      "nombre": "producto j",
+      "precio": "1230",
+      "descripcion": "Un producto cualquiera",
+      "id": "10"
+    },
+    {
+      "urlimagen": "assets/img/cons5.png",
+      "categoria": "consolas",
+      "nombre": "producto k",
+      "precio": "12200",
+      "descripcion": "Un producto cualquiera",
+      "id": "11"
+    },
+    {
+      "urlimagen": "assets/img/cons6.png",
+      "categoria": "consolas",
+      "nombre": "producto l",
+      "precio": "210",
+      "descripcion": "Un producto cualquiera",
+      "id": "12"
+    },
+    {
+      "urlimagen": "assets/img/dive1.png",
+      "categoria": "diversos",
+      "nombre": "producto m",
+      "precio": "500",
+      "descripcion": "alguna descripccion generica",
+      "id": "13"
+    },
+    {
+      "urlimagen": "assets/img/dive2.png",
+      "categoria": "diversos",
+      "nombre": "producto n",
+      "precio": "1840",
+      "descripcion": "Alguna descripccion generica",
+      "id": "14"
+    },
+    {
+      "urlimagen": "assets/img/dive3.png",
+      "categoria": "diversos",
+      "nombre": "producto o",
+      "precio": "73",
+      "descripcion": "Alguna descripccion generica",
+      "id": "15"
+    },
+    {
+      "urlimagen": "assets/img/dive4.png",
+      "categoria": "diversos",
+      "nombre": "producto p",
+      "precio": "320",
+      "descripcion": "Alguna descripccion generica",
+      "id": "16"
+    },
+    {
+      "urlimagen": "assets/img/dive5.png",
+      "categoria": "diversos",
+      "nombre": "producto q",
+      "precio": "3400",
+      "descripcion": "Alguna descripccion generica",
+      "id": "17"
+    },
+    {
+      "urlimagen": "assets/img/dive6.png",
+      "categoria": "diversos",
+      "nombre": "producto r",
+      "precio": "39",
+      "descripcion": "Alguna descripccion generica",
+      "id": "18"
+    }
+  ]
+}
